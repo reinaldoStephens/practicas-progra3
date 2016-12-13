@@ -98,3 +98,5 @@ public class Laboratorio2 extends JFrame{
     }
     
 }
+
+// Listener de los botonos... actionPerformed
